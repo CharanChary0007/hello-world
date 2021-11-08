@@ -1,13 +1,13 @@
-# hello-world
-starting program
-import java.util.Scanner
-my name is charan
-hlo everyone 
+using System;
 
-iam main
-iam the one with self belef
-
-iam main 
-
-nothing like u
-
+namespace ConsoleApp2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+          //  Console.Read();
+        }
+    }
+}
